@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Print("Olá mundo");
+	fmt.Print("Olá mundo, msg alterada!");
 }
